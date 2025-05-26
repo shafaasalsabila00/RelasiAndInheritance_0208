@@ -9,4 +9,5 @@ public:
     {
         cout << "Anak \"" << nama << "\" ada\n";
     }
+    
 };
