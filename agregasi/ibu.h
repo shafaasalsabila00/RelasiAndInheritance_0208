@@ -15,4 +15,4 @@ public:
     {
         cout << "Ibu \"" << nama << "\" tidak ada\n";
     }
-}
+};
