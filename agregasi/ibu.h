@@ -7,5 +7,9 @@ public:
     string nama;
     vector<anak *> daftar_anak;
 
+    ibu(string pNama) : nama(pNama)
+    {
+        cout << "Ibu \"" << nama << "\" ada\n";
+    }
     
 }
